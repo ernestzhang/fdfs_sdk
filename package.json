@@ -1,0 +1,20 @@
+{
+  "name": "fdfs_sdk",
+  "description": "nodejs api for fastdfs",
+  "version": "0.1.0",
+  "author": "ernestzhang <ernestzhang@vip.qq.com>",
+  "main": "fdfs_sdk.js",
+  "dependencies": {},
+  "engines": {
+    "node": "0.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "fastdfs",
+    "fdfs"
+  ],
+  "license": "MIT"
+}
